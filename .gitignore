@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # audio files
-*.mkv
+# *.mkv
 # *.zip
 # data/
